@@ -1,0 +1,9 @@
+- Ref https://www.slideshare.net/ufried/the-truth-about-you-build-it-you-run-it
+- You build it, you run it is about uncertainity, moving fast and risk management
+- Increase cycle times, adaptability, flexibility, resilience, effectiveness and speed
+- Outcome is more important than output
+- Dealing with uncertainity 
+    - Do measurable small bets
+    - Cut value reducing features
+    - Develop value-adding features
+    - Move fast
